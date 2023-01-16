@@ -6,3 +6,5 @@ The Four Colour Theorem states that it will take no more than four different col
 https://github.com/geckoo1337/Geckoo1337-engine
 
 https://geckoo1337.itch.io/four-color-theorem-game
+
+![FCTG](https://user-images.githubusercontent.com/17862708/212760661-9056d6c1-9180-4e64-942e-5f0e1ba44f87.png)
